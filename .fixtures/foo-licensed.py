@@ -1,0 +1,2 @@
+# Unlicense :)
+print("Hello world!")
