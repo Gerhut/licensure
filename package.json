@@ -1,6 +1,6 @@
 {
   "name": "licensure",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check all codes contains the LICENSE content.",
   "main": "index.js",
   "bin": "bin.js",
