@@ -4,6 +4,11 @@
   "description": "Check all codes contains the LICENSE content.",
   "main": "index.js",
   "bin": "bin.js",
+  "files": [
+    "index.js",
+    "bin.js",
+    "comment.json"
+  ],
   "scripts": {
     "pretest": "standard",
     "test": "mocha"
