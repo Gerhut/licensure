@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Check all codes contains the LICENSE content.",
   "main": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "pretest": "standard",
     "test": "mocha"
