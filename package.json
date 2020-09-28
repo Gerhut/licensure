@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "cpy": "^8.1.0",
-    "del": "^5.1.0",
+    "del": "^6.0.0",
     "make-dir": "^3.0.2",
     "mocha": "^8.0.1",
     "should": "^13.2.3",
